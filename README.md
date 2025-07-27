@@ -1,4 +1,8 @@
-## Hi there 👋
+## 🌸 Hi there, I'm Diana! 🌸
+
+# 🌸 A humble tech explorer & DSV student ✨
+# 🌸 Passionate about design, code & security 💖
+# 🌸 On a journey to find my perfect tech niche!🎀
 
 <!--
 **Harumian/Harumian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
